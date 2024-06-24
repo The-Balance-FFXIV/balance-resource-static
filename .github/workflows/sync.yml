@@ -13,7 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Run docker image
+      - name: Run sync
+        uses: addnab/docker-run-action@v3
         with:
           image: ghcr.io/the-balance-ffxiv/discord-static-resource-bot:master
           options: -v ${{ github.workspace }}/data:/app/data -e DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }}
