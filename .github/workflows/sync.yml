@@ -13,9 +13,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Run sync
-        uses: addnab/docker-run-action@v3
+      - name: Docker login
+        uses: docker/login-action@v2.1.0
         with:
-          image: ghcr.io/the-balance-ffxiv/discord-static-resource-bot:master
-          options: -v ${{ github.workspace }}/data:/app/data -e DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }}
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run sync
+        run: |
+          docker run -v ${{ github.workspace }}/data:/app/data -e DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }} ghcr.io/the-balance-ffxiv/discord-static-resource-bot:master
+
+#      - name: Run sync
+#        uses: addnab/docker-run-action@v3
+#        with:
+#          image: ghcr.io/the-balance-ffxiv/discord-static-resource-bot:master
+#          options: -v ${{ github.workspace }}/data:/app/data -e DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }}
 
