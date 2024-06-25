@@ -1,0 +1,8 @@
+# General files
+/.github @xpdota
+/.idea @xpdota
+/balance-static-resources.iml @xpdota
+
+
+# Resource channels
+/data/sge_resources @xpdota
