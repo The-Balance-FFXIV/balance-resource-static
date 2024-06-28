@@ -1,0 +1,5 @@
+🔹 **I’ve heard that double shield is extremely strong in [pick your fight]. Does this make regen healers obsolete?** 
+Not at all. In the game’s current design, regen healers will always have a place in standard compositions. Though both Sage and Scholar can fill the pure/regen niche at different times in the double shield composition, nothing beats the ability to have accessible pure healing GCDs that are always available and strong, pure healing oGCDs. The value of having two effective spam GCDs (E. Prog/Concitation + Helios Conjunction/Medica III) should never be understated.
+
+🔹 **I love SGE and my cohealer loves SCH. When can we swap to double shield?** 🔹
+At the end of the day, it’s your prog and your raid. If you and your team are comfortable accepting the composition’s weaknesses, feel free to play it when you are ready. This composition becomes easier to play the further we are from week 1 of a new tier. As you get more gear and as people become familiar with fights, double shield gains viability. A SCH/SGE duo in a party where everyone is maximum item level will be vastly different than a SCH/SGE duo in a party full of crafted gear.
