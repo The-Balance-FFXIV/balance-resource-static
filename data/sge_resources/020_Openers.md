@@ -7,9 +7,7 @@ The 7.0 opener is the same as before, but with two changes:
 - Psyche should be used during buffs
 - In most compositions and fight lengths, you should refresh your DoT early during buffs
 
-Some opener graphics were created prior to having full information, which showed Eukrasia Dyskrasia as being part
-of the opener. However, in the final Dawntrail release, Eukrasian Dyskrasia was changed to not stack with
-Eukrasian Dosis, so it should not be used in single-target scenarios.
+Some opener graphics were created prior to having full information, which showed Eukrasia Dyskrasia as being part of the opener. However, in the final Dawntrail release, Eukrasian Dyskrasia was changed to not stack with Eukrasian Dosis, so it should not be used in single-target scenarios.
 
 The typical Sage opener for 7.0 will be the Dyskrasia opener:
 
