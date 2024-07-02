@@ -2,6 +2,8 @@
 
 **ULTIMATE SETS**
 
+Please note: these sets have not been updated for 7.0. However, they should still work.
+
 **TOP Sets**
 
 You can find all the sets and approximate DPS numbers here: <https://xivgear.app/#/bis/sge/endwalker/top>

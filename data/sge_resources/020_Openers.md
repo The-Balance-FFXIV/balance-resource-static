@@ -1,11 +1,25 @@
 ``` ```
 ✦<:dosisIII:916046238321897562>「 **SGE Openers** 」<:dosisIII:916046238321897562>✦
 
-Prepull shields and Toxikon generation are up to you and what the fight needs.
+Graphics to come later.
 
-🔹 **Standard Opener**
-https://cdn.discordapp.com/attachments/756684559831269426/942159015746609162/SGE-Standard.png
+The 7.0 opener is the same as before, but with two changes:
+- Psyche should be used during buffs
+- In most compositions and fight lengths, you should refresh your DoT early during buffs
 
-🔹 **Prepull Pneuma Opener**
-This opener is situational and can gain you an extra gcd depending on kill time or phasing time, however it requires you to not need pneuma in the first two minutes of the fight. If people die or if healers are forced to gcd heal because of the missing pneuma you should not be using this opener.
-https://cdn.discordapp.com/attachments/756684559831269426/942160117690933338/SGE-Pneuma.png
+Some opener graphics were created prior to having full information, which showed Eukrasia Dyskrasia as being part
+of the opener. However, in the final Dawntrail release, Eukrasian Dyskrasia was changed to not stack with
+Eukrasian Dosis, so it should not be used in single-target scenarios.
+
+The typical Sage opener for 7.0 will be the Dyskrasia opener:
+
+- (Pre-pull) Eukrasia
+- (Pre-pull, -2.1s) Grade 1 Gemdraught of Mind
+- (Pre-pull, -1.5s) Dyskrasia
+- Eukrasian Dosis
+- Dosis until raid buffs are up
+- Phlegma
+- Psyche
+- Phlegma
+- Dosis until raid buffs are about to fall off
+- Refresh Eukrasian Dosis in buffs
