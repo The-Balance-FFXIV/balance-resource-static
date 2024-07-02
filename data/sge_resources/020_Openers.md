@@ -19,19 +19,6 @@ https://github.com/The-Balance-FFXIV/balance-resource-static/blob/master/data/sg
 
 https://github.com/The-Balance-FFXIV/balance-resource-static/blob/master/data/sge_resources/images/Sage%20Pneuma%20Opener%20with%20Potion.png
 
-## Text Form
-
-- (Pre-pull) Eukrasia
-- (Pre-pull, -2.1s) Grade 1 Gemdraught of Mind
-- (Pre-pull, -1.5s) Toxikon or Pneuma
-- Eukrasian Dosis
-- Dosis until raid buffs are up
-- Phlegma
-- Psyche
-- Phlegma
-- Dosis until raid buffs are about to fall off
-- Refresh Eukrasian Dosis in buffs
-
 ## Why Toxikon/Pneuma?
 
 Sage suffers from a weakness that other healers do not have, which is that its DoT has a longer effective delay due to needing to use Eukrasia first. If you open with Dosis, you will have a noticeable delay between your pre-pull Dosis and being able to apply your DoT. One solution to this is to use Pneuma, as it has the same cast time as Dosis, but allows you to pre-pull Eukrasia so that you can apply your DoT faster. In addition, this will shift all of your remaining GCDs up by about 1 second, potentially getting another GCD over the course of a fight.
