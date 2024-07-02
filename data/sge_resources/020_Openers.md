@@ -13,11 +13,11 @@ The typical Sage opener for 7.0 will be the Toxikon opener, though the Pnuema op
 
 ## Toxikon Opener
 
-https://github.com/The-Balance-FFXIV/balance-resource-static/blob/master/data/sge_resources/images/Sage%20Toxikon%20Opener%20with%20Potion.png
+https://raw.githubusercontent.com/The-Balance-FFXIV/balance-resource-static/master/data/sge_resources/images/Sage%20Toxikon%20Opener%20with%20Potion.png
 
 ## Pneuma Opener
 
-https://github.com/The-Balance-FFXIV/balance-resource-static/blob/master/data/sge_resources/images/Sage%20Pneuma%20Opener%20with%20Potion.png
+https://github.com/The-Balance-FFXIV/balance-resource-static/blob/master/data/sge_resources/images/Sage%20Toxikon%20Opener%20with%20Potion.png?raw=true
 
 ## Why Toxikon/Pneuma?
 
