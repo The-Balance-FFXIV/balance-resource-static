@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/The-Balance-FFXIV/balance-resource-static/mast
 
 ## Pneuma Opener
 
-https://github.com/The-Balance-FFXIV/balance-resource-static/blob/master/data/sge_resources/images/Sage%20Toxikon%20Opener%20with%20Potion.png?raw=true
+https://raw.githubusercontent.com/The-Balance-FFXIV/balance-resource-static/master/data/sge_resources/images/Sage%20Pneuma%20Opener%20with%20Potion.png
 
 ## Why Toxikon/Pneuma?
 
