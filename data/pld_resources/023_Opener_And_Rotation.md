@@ -1,0 +1,14 @@
+<:plds:931992978094968872> Use <:fof:1008865719850647662> **Fight or Flight** on cooldown, this begins your burst phase.
+<:blank:846622384739057684>· At 2.50 GCD and following the standard opener, double weave <:imperator:1255744838456971314> **Imperator** after Fight or Flight (see FAQ for bursting at other speeds)
+<:plds:931992978094968872> Similar to the opener, use your high potency skills (<:conf:1008865699436953760><:faith:1008865702159065158><:truth:1008865714658103347><:valor:1008865715849269288><:goring:1008865704805671043>) and oGCDs (<:cos:1008865717002698885><:exp:1008865718709796924><:int:1008865721578705046><:honor:1255744839996276777>) as they become available
+<:plds:931992978094968872> For the remaining duration of <:fofbuff:1008882860981235764>**Fight or Flight**, prioritize your high potency filler GCDs (<:royal:1008865713282359437> **Royal Authority**, <:atone:1008865694718373990><:supp:1255744841871134732><:sep:1255744841149710366> **Atonement**/**Supplication**/**Sepulchre**, <:hs:1008865707787825203> **Holy Spirit** with <:divinemight:1062600918903828520>Divine Might buff)
+<:blank:846622384739057684>· Since <:sep:1255744841149710366> **Sepulchre** is stronger than <:hs:1008865707787825203> **Holy Spirit** with <:divinemight:1062600918903828520>**Divine Might** (which is stronger than Royal Authority, Atonement, and Supplication), prioritize putting Sepulchre in Fight or Flight _if able_ (this will not be possible if Royal Authority falls inside Fight or Flight). This will sometimes push Holy Spirit out of Fight or Flight but is still a gain.
+
+### Filler
+<:plds:931992978094968872> Outside of <:fofbuff:1008882860981235764>**Fight or Flight**, repeat the <:fast:1008865703513825321><:riot:1008865712040845472><:royal:1008865713282359437> **Royal Authority** combo and spend the procs it gives you (<:atone:1008865694718373990><:supp:1255744841871134732><:sep:1255744841149710366><:hs:1008865707787825203>)
+<:plds:931992978094968872> Spend your procs — avoid completing another Royal Authority combo before using all the procs from the previous one
+<:plds:931992978094968872> Bank resources for your next burst by not spending them until your next <:royal:1008865713282359437> **Royal Authority** is ready
+<:blank:846622384739057684>· For example, by repeating ...<:royal:1008865713282359437><:atone:1008865694718373990><:fast:1008865703513825321><:riot:1008865712040845472><:supp:1255744841871134732><:hs:1008865707787825203><:sep:1255744841149710366><:royal:1008865713282359437>... outside of <:fofbuff:1008882860981235764>**Fight or Flight**, you will always have strong filler GCDs available for burst, no matter where <:fof:1008865719850647662> **Fight or Flight** comes off cooldown
+<:plds:931992978094968872> Use <:cos:1008865717002698885> **Circle of Scorn** and <:exp:1008865718709796924> **Expiacion** on cooldown so they are available for your next burst
+_ _
+_ _

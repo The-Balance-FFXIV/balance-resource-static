@@ -1,0 +1,1 @@
+For level 70 ultimates, simply sync high item-level crit+det gear (at least 500 for UWU and 470 for UCoB). If you have the Shadowbringers relic, cap substats in the order crit -> det -> ten -> sks (for the substat caps, see `!faq ultimatesync` in <#279387176502820865>)
