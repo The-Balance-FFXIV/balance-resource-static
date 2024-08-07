@@ -7,4 +7,4 @@ Each link includes multiple gearing options, but we have included screenshots of
 These sets will be recommended if you are going to prog the 7.1 Ultimate, FRU, on release. 
 
 -# **Alternatives:** [2.49 ](<https://xivgear.app/?page=sl%7Cf893611b-a7c0-4db6-b5d4-851f1daf93dc>) | [2.48 ](<https://xivgear.app/?page=sl%7C21367ea0-b5c9-4fa2-987a-0754404c7ce5>)
-https://github.com/symphonicabyss1/balance-resource-static/blob/master/data/sge_resources/images/sage%20max%20dps%20aaclhw.png?raw=true
+https://github.com/symphonicabyss1/balance-resource-static/blob/master/data/sge_resources/images/sage%20max%20vit%20aaclhw.png?raw=true
