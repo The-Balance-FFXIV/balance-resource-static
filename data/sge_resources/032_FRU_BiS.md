@@ -1,7 +1,6 @@
 ``` ```
-✦ <:kerachole:916046239764742144> 「 **SGE BiS & Gear Options** 」<:kerachole:916046239764742144> ✦
 
-# Best in Slot Gear
+# Best in Slot Gear (FRU)
 Each link includes multiple gearing options, but we have included screenshots of the highest simming DPS set in each category as well as links to individual sets and spell speeds for convenience.
 ## [Maximum Vitality (Ultimate Sets) ](<https://xivgear.app/?page=sl%7Cf204dafc-951c-47b9-8d18-c76260cefbcb>)
 These sets will be recommended if you are going to prog the 7.1 Ultimate, FRU, on release. 
