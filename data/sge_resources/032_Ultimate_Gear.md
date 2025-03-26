@@ -6,7 +6,7 @@ Please note: these sets have not been updated for 7.0. However, they should stil
 
 **TOP Sets**
 
-You can find all the sets and approximate DPS numbers here: <https://xivgear.app/#/bis/sge/endwalker/top>
+You can find all the sets and approximate DPS numbers here: <https://xivgear.app/?page=sl%7Cb965ec32-84e8-43cb-962a-f38cdefc6ffd>
 
 You can play around with the sets by clicking "Save As" under the table to make your own copy of the sheet.
 
@@ -21,7 +21,7 @@ Provides about a hundred simulated DPS less than the other two sets, but is the 
 
 **DSW Sets**
 
-You can find all the sets and approximate DPS numbers here: <https://xivgear.app/#/bis/sge/endwalker/dsr>
+You can find all the sets and approximate DPS numbers here: <https://xivgear.app/?page=sl%7Cdd937de0-2089-4378-acf5-91bf8db39965>
 
 Note that if you do not yet have the DSR weapon itself, the 6.25 relic is slightly better than the Asphodelos (i605) weapon.
 
