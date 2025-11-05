@@ -2,7 +2,6 @@
 
 **ULTIMATE SETS**
 
-Please note: these sets have not been updated for 7.0. However, they should still work.
 
 **TOP Sets**
 
