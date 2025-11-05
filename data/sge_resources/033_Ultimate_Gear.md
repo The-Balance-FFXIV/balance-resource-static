@@ -6,7 +6,7 @@ Please note: these sets have not been updated for 7.0. However, they should stil
 
 **TOP Sets**
 
-You can find all the sets and approximate DPS numbers here: <https://xivgear.app/?page=sl%7Cb965ec32-84e8-43cb-962a-f38cdefc6ffd>
+You can find all the sets and approximate DPS numbers here: <https://xivgear.app/?page=bis|sge|ultimate|top>
 
 You can play around with the sets by clicking "Save As" under the table to make your own copy of the sheet.
 
